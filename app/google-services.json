@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460364692233",
+    "project_id": "androidktx-baisc-auth",
+    "storage_bucket": "androidktx-baisc-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460364692233:android:1a7df7caf43f28f3faf1d8",
+        "android_client_info": {
+          "package_name": "com.example.androidktxbaiscauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460364692233-q441ksi2j3h7pbrb0e09r6ceg6k1pf8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVj4Z-tQOU3zmUchDn5qkxa_8jL4qRthM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460364692233-q441ksi2j3h7pbrb0e09r6ceg6k1pf8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
