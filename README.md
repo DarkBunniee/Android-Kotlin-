@@ -4,10 +4,7 @@ This is a simple Android app written in Kotlin that demonstrates how to create a
 
 ## Screenshots
 
-![Splash Screen](/Mocks/Mock_01.png)
-
-![Main Screen](/Mocks/Mock_02.png)
-
+![Splash Screen](/Mocks/Mock_02.png) ![Main Screen](/Mocks/Mock_01.png)
 
 ## Prerequisites
 
